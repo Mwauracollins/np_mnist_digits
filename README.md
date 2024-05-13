@@ -16,7 +16,7 @@ The project utilizes the MNIST dataset, which consists of 28x28 pixel grayscale 
 2. Install the required dependencies:
 
 ## Usage
-1. Run the `digit_recognition.py` script.
+1. Run the `digit_recognition.ipynb` script.
 2. The script will load the training and test datasets, preprocess the data, train the neural network model, and perform predictions on a sample of handwritten digits.
 
 ## Neural Network Architecture
